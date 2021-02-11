@@ -2,10 +2,6 @@
 {
   "presubmit": [
     {
-      "host": true,
-      "name": "lru-cache_host_test_src_lib"
-    },
-    {
       "name": "lru-cache_device_test_src_lib"
     }
   ]
