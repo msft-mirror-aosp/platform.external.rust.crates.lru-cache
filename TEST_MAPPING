@@ -2,7 +2,12 @@
 {
   "presubmit": [
     {
-      "name": "lru-cache_device_test_src_lib"
+      "name": "lru-cache_test_src_lib"
+    }
+  ],
+  "presubmit-rust": [
+    {
+      "name": "lru-cache_test_src_lib"
     }
   ]
 }
